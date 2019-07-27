@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python每次收到mqtt数据，都要重新连接数据库，然后写数据，关闭数据库，虽然是多线程，但是效率不会高
 # -*- coding: utf-8 -*-
 VER = '1.5.0022'
 
